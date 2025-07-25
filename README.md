@@ -32,14 +32,14 @@
   </ul>
 
   <h2>3. Data Retention</h2>
-  <p>We retain your account data as long as you use the app. You can request deletion at any time by emailing us at <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
+  <p>We retain your account data as long as you use the app. You can request deletion at any time by emailing us at <a href="mailto:yourname@example.com">DEVELOPER.UMANG.MHTA@GMAIL.COM</a>.</p>
 
   <h2>4. Children's Privacy</h2>
   <p>This app is not intended for children under 13. We do not knowingly collect data from children under 13.</p>
 
   <h2>5. Contact Us</h2>
   <p>If you have questions or want to request data deletion, contact us at:  
-  <a href="mailto:yourname@example.com">yourname@example.com</a></p>
+  <a href="mailto:yourname@example.com">DEVELOPER.UMANG.MHTA@GMAIL.COM</a></p>
 
   <p><strong>Developer:</strong> Umang Mehta</p>
 </body>
