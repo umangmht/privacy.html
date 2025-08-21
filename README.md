@@ -1,4 +1,4 @@
-<title>Privacy Policy – QuizMaster App</title>
+<title>Privacy Policy – Quiz App</title>
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -14,7 +14,7 @@
 <h1>Privacy Policy</h1>
 <p><strong>Last updated:</strong> July 25, 2025</p>
 
-<p>This Privacy Policy explains how we collect, use, and protect your information when you use the QuizMaster mobile app ("the App").</p>
+<p>This Privacy Policy explains how we collect, use, and protect your information when you use the QuizApp mobile app ("the App").</p>
 
 <h2>1. Information We Collect</h2>
 <ul>
