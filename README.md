@@ -1,45 +1,48 @@
-<title>Privacy Policy – Quiz App</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    max-width: 800px;
-    margin: auto;
-    padding: 20px;
-    line-height: 1.6;
-  }
-  h1 { color: #1976d2; }
-  h2 { color: #444; }
-</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – BrainBrawl Quiz</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><em>Last updated: August 20, 2025</em></p>
 
-<h1>Privacy Policy</h1>
-<p><strong>Last updated:</strong> July 25, 2025</p>
+  <h2>1. Information We Collect</h2>
+  <ul>
+    <li><strong>Login Data:</strong> Email and display name when you sign in via Firebase Authentication (required for Multiplayer & Leaderboards). Solo mode is available without login.</li>
+    <li><strong>Gameplay Data:</strong> XP, quiz scores, levels, streaks, wins/losses—used for progression and leaderboards.</li>
+    <li><strong>Device & Analytics Data:</strong> Device type, Android version, crash logs (via Firebase Crashlytics), and anonymous usage events (via Firebase Analytics).</li>
+    <li><strong>Ads Data:</strong> Advertising ID used by AdMob for personalized ads, frequency capping, and analytics.</li>
+  </ul>
 
-<p>This Privacy Policy explains how we collect, use, and protect your information when you use the QuizApp mobile app ("the App").</p>
+  <h2>2. How We Use Your Data</h2>
+  <ul>
+    <li>To enable login, multiplayer mode, and save user progress.</li>
+    <li>To display ads and manage when they appear (banners on menus, interstitials after quizzes).</li>
+    <li>To improve app stability, content, and user experience via analytics and crash reports.</li>
+  </ul>
 
-<h2>1. Information We Collect</h2>
-<ul>
-  <li><strong>Google Account Info:</strong> When you sign in, we collect your email and display name for authentication purposes.</li>
-  <li><strong>App Usage Data:</strong> We collect anonymous statistics such as quiz scores and XP via Firebase.</li>
-  <li><strong>Device Info:</strong> Non-personal data like device type and Android version may be collected to improve app performance.</li>
-  <li><strong>Advertising ID:</strong> We use Google AdMob to serve ads. AdMob may collect and use your device’s Advertising ID for purposes such as ad personalization, frequency capping, and analytics. You can reset or limit this ID through your device settings.</li>
-</ul>
+  <h2>3. SDKs & Third-Party Services</h2>
+  <ul>
+    <li>Firebase Authentication, Firestore / Realtime Database, Crashlytics, Analytics, Remote Config (Google/Firebase).</li>
+    <li>Google Mobile Ads (AdMob).</li>
+    <li>These services only process data as described above.</li>
+  </ul>
 
-<h2>2. How We Use Your Data</h2>
-<ul>
-  <li>To allow login and save progress</li>
-  <li>To improve quiz content and performance</li>
-  <li>To personalize your experience (like avatars and stats)</li>
-  <li>To display ads and generate revenue using AdMob</li>
-</ul>
+  <h2>4. Permissions Used</h2>
+  <ul>
+    <li><strong>INTERNET</strong> and <strong>ACCESS_NETWORK_STATE</strong>: for leaderboards, network sync, and ads.</li>
+    <li><strong>POST_NOTIFICATIONS</strong> (Android 13+): to send optional quiz reminders (user-controlled).</li>
+  </ul>
 
-<h2>3. Data Retention</h2>
-<p>We retain your account data as long as you use the app. You can request deletion at any time by emailing us at <a href="mailto:DEVELOPER.UMANG.MHTA@GMAIL.COM">DEVELOPER.UMANG.MHTA@GMAIL.COM</a>.</p>
+  <h2>5. Data Retention</h2>
+  <p>Your data is retained as long as you use the app. You may request deletion anytime by emailing: <a href="mailto:developer.umang.mhta@gmail.com">developer.umang.mhta@gmail.com</a>.</p>
 
-<h2>4. Children's Privacy</h2>
-<p>This app is not intended for children under 13. We do not knowingly collect data from children under 13.</p>
+  <h2>6. Children’s Privacy</h2>
+  <p>This app is not intended for children under 13. We do not knowingly collect personal data from children under 13.</p>
 
-<h2>5. Contact Us</h2>
-<p>If you have questions or want to request data deletion, contact us at:<br>
-<strong>Email:</strong> <a href="mailto:DEVELOPER.UMANG.MHTA@GMAIL.COM">DEVELOPER.UMANG.MHTA@GMAIL.COM</a></p>
-
-<p><strong>Developer:</strong> Umang Mehta</p>
+  <h2>7. Contact Us</h2>
+  <p>Questions or deletion requests? Reach us at: <a href="mailto:developer.umang.mhta@gmail.com">developer.umang.mhta@gmail.com</a></p>
+</body>
+</html>
